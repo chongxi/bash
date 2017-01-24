@@ -1,3 +1,10 @@
+" """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""" 
+" git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+" :PluginInstall
+" cd ~/.vim/bundle/YouCompleteMe && ./install.sh
+" """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+
 " " Copy and Paste
 set pastetoggle=<F2>
 set clipboard=unnamed
