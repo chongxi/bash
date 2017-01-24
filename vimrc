@@ -2,6 +2,9 @@
 " git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 " :PluginInstall
 " cd ~/.vim/bundle/YouCompleteMe && ./install.sh
+" for ubuntu: sudo apt-get install exuberant-ctags 
+" for macosx: 1. brew install ctags 
+"	      2. add `alias ctags="`brew --prefix`/usr/bin/ctags" to ~/.zshrc
 " """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 
