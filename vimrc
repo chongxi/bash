@@ -140,11 +140,13 @@ set fo-=t   " don't automatically wrap text when typing
 "
 "
 " " Real programmers don't use TABs but spaces
-" "" set tabstop=4
+set expandtab
+set tabstop=4
+set smarttab
 set softtabstop=4
 set shiftwidth=4
 " "" set shiftround
-" "" set expandtab
+
 "
 "
 " " Make search case insensitive
